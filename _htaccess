@@ -1,0 +1,5 @@
+AuthUserFile /Applications/XAMPP/htdocs/test/.htpasswd
+AuthGroupFile /dev/null
+AuthName "test page"
+AuthType Basic
+require user u_hoge
